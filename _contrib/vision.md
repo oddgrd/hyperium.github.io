@@ -28,7 +28,7 @@ that come later (but every case is different).
 4. Flexible
 5. Understandable
 
-There's a lot more detail about each in [TENETS](./tenets.md).
+There's a lot more detail about each in [tenets](./tenets.md).
 
 ## Use Cases
 
@@ -167,7 +167,7 @@ As of this writing, we'll promise that _major_ versions of hyper are stable for
 determined necessary to make breaking changes to the API, we'll save them for
 after the 3 years.
 
-hyper also establishes a Minimum Supported Rust Version (MSRV). hyper will
+hyper also establishes a Minimum Supported Rust Version (msrv). hyper will
 support Rust versions at least 6 months old. If a new Rust version is released
 with a feature hyper wishes to use, we won't do so until at least 6 months
 afterwards. hyper will only ever require a new Rust version as a _minor_
